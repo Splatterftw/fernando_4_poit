@@ -1,0 +1,87 @@
+    1  exit
+    2  echo "# fernando_4_poit">> README.md
+    3  echo "# fernando_4_poit" >> README.md
+    4  sudo
+    5  CCQQq
+    6  :q
+    7  :q!
+    8  q
+    9  echo
+   10  echo "# fernand_4_poit" >> README.md
+   11  git echo "# fernand_4_poit" >> README.md
+   12  corvo echo "# fernand_4_poit" >> README.md
+   13  echo "# fernand_4_poit" >> README.md
+   14  git remote add origin git@github.com:Splatterftw/fernando_4_poit.git
+   15  pwd
+   16  cd 
+   17  ls
+   18  pwd
+   19  mkdir fernando_4_poit
+   20  cd
+   21  cd fernando_4_poit/
+   22  echo "# fernando_4_poit" >> READMEmd
+   23  git init
+   24  git add README.,d
+   25  git add README.md
+   26  git init
+   27  git add README.md
+   28  echo "# fernando_4_poit" >> README.md
+   29  git init
+   30  git add README.md
+   31  git commit -m "first commit"
+   32  qq
+   33  git commit -m "first commit"
+   34  git remote add orgin git@github.com:Splatterftw/fernando_4_poit.git
+   35  git push -u orgin master
+   36  git remote add git@github.com:Splatterftw//fernando_4_poit.git
+   37  git push -u orgin master
+   38  ssh-keygen 
+   39  cat ~/.ssh/id_rsa.pub 
+   40  git push -u orgin master
+   41  git add * 
+   42  git commit -m "first commit"
+   43  git config --global user.email "fernandog1042@live.saisd.net"
+   44  git config --global user.name "Fernando"
+   45  git push -u orgin master
+   46  git commit -m "first commit"
+   47  get add
+   48  getadd
+   49  getcommit
+   50  get push
+   51  echo "I am Fernando Garcia in 4th period $Splatter"
+   52  echo "I am Fernando Garcia in 4th period $USER"
+   53  https://wwww.learnlinux.org.za/courses/build/shell-scripting/ch01s04.html
+   54  ssh-keygen 
+   55  su -
+   56  echo "I am Fernando Garcia in 4th period $USER"
+   57  cat < myfirstscript
+   58  mkdir  myfirstscript
+   59  cat < myfirstscript
+   60  cat 0< myfirstscript
+   61  cat file
+   62  mkdir file
+   63  touch
+   64  touch fle
+   65  touch file
+   66  touch new fi;e
+   67  touch newfile
+   68  cat file
+   69   ls -al myfirstscript > longlisting
+   70  cat longlisting
+   71  ls -al myfirstscript 1> longlisting
+   72  cat > test
+   73  cat test
+   74  ls -al
+   75  cat newfile
+   76  cat newfie
+   77  cat newfile
+   78  cat < myfirstscript > mynewscript
+   79  cp myfirstscript mynewscript
+   80  ls -al myfirstscript > longlisting
+   81  ls -al myfirstscript >> longlisting
+   82  find / -name "*" -print 2> /dev/null
+   83  ls -al 2> myerror
+   84  ls -rt
+   85  cd fernando_4_poit/
+   86  ls -rt
+   87  history > fernando_4_$(date +%F_%R)
