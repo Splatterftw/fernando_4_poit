@@ -85,3 +85,17 @@
    85  cd fernando_4_poit/
    86  ls -rt
    87  history > fernando_4_$(date +%F_%R)
+ 88  ls -rt
+   89  git init 
+   90  git add * 
+   91  git commit -m "inspiring message"
+   92  git push -u origin master 
+   93  git remote add origin git@github.com:Splatterftw/fernando_4_poit.git
+   94  git push -u origin master 
+   95  find /-name "*" -print 1>> file 2>>&#38;1
+   96  ls -al | less
+   97  who | grep <your user name>
+   98  who | grep <splatter>
+   99  who | grep pts
+  100  who | grep pts > outfile
+  101  history
